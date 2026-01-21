@@ -1,0 +1,1 @@
+g++ -DZYDIS_STATIC_BUILD main.cpp -I../zydis/include -I../zydis/dependencies/zycore/include ../zydis/build/libZydis.a -o main
