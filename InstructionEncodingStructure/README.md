@@ -1,2 +1,0 @@
-# x86-64 Instruction Decoder
-Basically it just decodes the instructions from memory. I wanted to learn about instruction encoding structure so i decided to decode instructions. I have mplemented ~20 common instructions.
